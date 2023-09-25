@@ -4,6 +4,11 @@
  * [189] Rotate Array
  */
 
+#include <string>
+#include <algorithm>
+#include <iostream>
+using namespace std;
+
 // @lc code=start
 class Solution {
 public:

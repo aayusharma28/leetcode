@@ -4,6 +4,11 @@
  * [169] Majority Element
  */
 
+#include <string>
+#include <algorithm>
+#include <iostream>
+using namespace std;
+
 // @lc code=start
 class Solution {
 public:
